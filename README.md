@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gariela Vuolo. From Cuiabá - Brazil. Graduated in Biomedicine, hematology specialist.
-- 🌱 I’m currently learning JS, CSS, HTML, Python.
+- 🌱 Full stack development student.
 
 
 <b>Connect with me</b>
