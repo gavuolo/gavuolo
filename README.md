@@ -1,4 +1,4 @@
-<h2 align="left">Hey! I’m Gariela Vuolo.</h2>
+<h2 align="left">Hey! I’m Gabriela Vuolo.</h2>
 <p> :black_small_square: From Cuiabá - Brazil. Graduated in Biomedicine, hematology specialist.</p>
 <p> :black_small_square: Full stack development student.</p>
 
