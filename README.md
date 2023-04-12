@@ -10,7 +10,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://64.media.tumblr.com/93009962593c8a108c9269b8fd339f6f/tumblr_ocah6baKRC1sktgg3o2_r1_540.gifv"  />
+<img align="right" height="150" src="https://media.tenor.com/YjyN4su14BkAAAAd/persona-futaba.gif"  />
 
 ### LANGUAGES AND TOOLS:
 
