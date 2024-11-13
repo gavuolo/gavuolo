@@ -1,5 +1,5 @@
 <h2 align="left">Hey! I’m Gabriela Vuolo.</h2>
-<p> :black_small_square: From Cuiabá - Brazil. Graduated in Biomedicine, hematology specialist.</p>
+<p> :black_small_square: From Brazil. Biomedical Scientist, specialized in hematology and hemotherapy. Master's student at UNICAMP blood center.</p>
 <p> :black_small_square: Full stack web developer.</p>
 
 
