@@ -27,11 +27,11 @@
 
           
   
-  <p>Currently learning</p>
+  <p>Currently learning:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" height="30" width="42" alt="R-project logo"  />
 
-  <p>On queue to learn</p>
+  <p>On queue to learn:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"/>
   </div>
