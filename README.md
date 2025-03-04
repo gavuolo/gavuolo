@@ -1,6 +1,6 @@
 <h2 align="left">Hey! I’m Gabriela Vuolo.</h2>
-<p> :black_small_square: From Brazil. Biomedical Scientist, specialized in hematology and hemotherapy. Master's student at UNICAMP blood center.</p>
-<p> :black_small_square: Full stack web developer.</p>
+<p> :black_small_square: From Brazil. Biomedical Scientist, specialized in hematology and hemotherapy. Pursuing a Master's degree in Hematology and Hemoteraphy at State University of Campinas (UNICAMP)</p>
+<p> :black_small_square: Full stack web developer. I aim to enhance my programming skills to optimize work processes.</p>
 
 
 <img align="right" height="170" src="https://media.tenor.com/YjyN4su14BkAAAAd/persona-futaba.gif"  />
